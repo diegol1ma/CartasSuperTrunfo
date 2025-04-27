@@ -10,6 +10,6 @@ int main() {
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
-
+oi
 return 0;
 } 
